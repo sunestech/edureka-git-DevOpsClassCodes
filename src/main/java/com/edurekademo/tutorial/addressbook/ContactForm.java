@@ -1,6 +1,5 @@
 package com.edurekademo.tutorial.addressbook;
 
-
 import com.vaadin.event.ShortcutAction;
 import com.edurekademo.tutorial.addressbook.backend.Contact;
 import com.vaadin.ui.Button;
